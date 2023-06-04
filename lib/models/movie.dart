@@ -39,5 +39,19 @@ List<Filmes> movies = [
     genero: 'Ação',
     imageUrl: 'assets/images/velozesefuriosos.jpg',
   ),
+  Filmes(
+    nomeFilme: 'Transformers: O Despertar das Feras',
+    dataLancamento: '8 de junho de 2023',
+    sinopse: 'Voltando à ação e ao espetáculo que capturou pela primeira vez os espectadores ao redor do mundo 14 anos atrás com o ‘Transformers‘ original, ‘Transformers: O Despertar das Feras‘ levará o público à uma aventura pelo mundo, ambientada nos anos 90, e apresentará os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.',
+    genero: 'Ação',
+    imageUrl: 'assets/images/transformes.jpg',
+  ),
+  Filmes(
+    nomeFilme: 'Super Mario Bros. O Filme',
+    dataLancamento: '6 de abril de 2023',
+    sinopse: 'Mario é um filme baseado na série de video games, Super Mario Bros, da Nintendo. Em Super Mario Bros. - O Filme, Mario (Chris Pratt) é um encanador qualquer no bairro de Brooklyn junto com seu irmão Luigi (Charlie Day). Um dia, Mario e Luigi vão para no reino dos cogumelos, governado pela Princesa Peach (Anya Taylor-Joy), mas ameaçado pelo rei dos Koopas, Bowser (Jack Black), que vai fazer de tudo para conseguir reinar todos os lugares. É então quando Luigi é raptado por Bowser e o usa para procurar Mario, o único capaz de deter o Koopa e reestabelexcer a paz. Mario terá que aprender como viver nesse novo reino perigoso, passando por vários biomas, aprender a dirigir carros, utilizar itens que o fazem soltar bolas de fogo das mãos, virar um animal e andar em plataformas nada confiáveis. Também estará acompanhados de amigos, como Toad (Keegan-Michael Key) e Donkey Kong (Seth Rogan).',
+    genero: 'Animação',
+    imageUrl: 'assets/images/supermario.jpg',
+  ),
   // Adicione mais filmes à lista
 ];

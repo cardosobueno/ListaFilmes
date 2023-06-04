@@ -17,6 +17,7 @@ class MovieDetailPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            
             Image.network(
               movie.imageUrl,
               height: 200,
